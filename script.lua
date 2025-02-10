@@ -310,7 +310,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
 local v15 = v14:CreateWindow({
-    Title = "Skibidi",
+    Title = "Skibidi [ Premium ] ",
     SubTitle = "",
     TabWidth = 160,
     Theme = "Dark",
@@ -9324,7 +9324,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "Văn Thành IOS",
+    Title = "Skibidi Hub",
     Content = "Tải Xong",
     Duration = 10
 });
