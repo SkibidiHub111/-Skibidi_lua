@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Shinichi Hub Làm bơi baor";
+shared.LoaderTitle = "Hi";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -93,7 +93,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://74026087738956",
+    Image = "rbxassetid://88079128897313",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -102,7 +102,7 @@ local v8 = CreateObject("TextLabel", {
     Name = "UserName",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "[ Free ] Shinichi Hub",
+    Text = "[ Free ] Skibidi Hub",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -310,7 +310,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
 local v15 = v14:CreateWindow({
-    Title = "Shinichi [ Free ] ",
+    Title = "Skibidi [ Free ] ",
     SubTitle = "",
     TabWidth = 160,
     Theme = "Dark",
