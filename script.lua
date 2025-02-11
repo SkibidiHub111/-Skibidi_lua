@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Join My Discord Skibidi";
+shared.LoaderTitle = "Shinichi Hub Làm bơi baor";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -93,7 +93,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://88079128897313",
+    Image = "rbxassetid://74026087738956",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -102,7 +102,7 @@ local v8 = CreateObject("TextLabel", {
     Name = "UserName",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "[ Premium ] Skibidi Hub",
+    Text = "[ Free ] Shinichi Hub",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -229,10 +229,10 @@ v5:Destroy();
 --         function error()
 --         end
 --         debug.traceback = function()
---             return "Traceback blocked";
+--             return "Traceback no blocked";
 --         end;
 --         debug.info = function()
---             return "Info blocked";
+--             return "Info no blocked";
 --         end;
 --         local v420 = getrawmetatable(game);
 --         if (v420 and not v420.__metatable) then
@@ -308,9 +308,9 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
+local v14 = loadstring(game:HttpGet(""))();
 local v15 = v14:CreateWindow({
-    Title = "Skibidi [ Premium ] ",
+    Title = "Shinichi [ Free ] ",
     SubTitle = "",
     TabWidth = 160,
     Theme = "Dark",
